@@ -1,0 +1,32 @@
+﻿<Window x:Class="Кафеге_программа.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Кафеге_программа"
+        mc:Ignorable="d"
+        Title="Window1" Height="650" Width="1000"  WindowStyle="None" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Window.Resources>
+        <ResourceDictionary Source="Dictionary1.xaml"></ResourceDictionary>
+    </Window.Resources>
+    <Grid  Background="White" >
+        <Grid Width="650" HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="171,114,171,0">
+            <TextBlock Text="К оплате" FontSize="30" FontWeight="Bold" Margin="0,64,0,0" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top"></TextBlock>
+            <TextBlock Text="200000$" FontSize="30" FontWeight="Bold" Margin="0,64,0,0" HorizontalAlignment="Right" Height="50" VerticalAlignment="Top"></TextBlock>
+            <TextBlock Text="Наличными" FontSize="25" Margin="0,151,0,0" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top"></TextBlock>
+            <TextBox Text="" FontSize="25"  Margin="0,151,0,0" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="286" HorizontalContentAlignment="Right"  BorderThickness="0,0,0,3"  BorderBrush="#FFBDBDBD"></TextBox>
+            <TextBlock Text="Карточкой" FontSize="25" Margin="0,238,0,0" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top"></TextBlock>
+            <TextBox Text="" FontSize="25"  Margin="0,238,0,0" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="286" HorizontalContentAlignment="Right"  BorderThickness="0,0,0,3"  BorderBrush="#FFBDBDBD"></TextBox>
+
+            <TextBlock Text="Сертификатом" FontSize="25" Margin="0,325,0,0" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top"></TextBlock>
+            <TextBox Text="" FontSize="25"  Margin="0,325,0,0" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="286" HorizontalContentAlignment="Right"  BorderThickness="0,0,0,3"  BorderBrush="#FFBDBDBD"></TextBox>
+            <CheckBox Content="Закрыть без оплаты" FontSize="25" Margin="0,412,0,0" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top"></CheckBox>
+            <CheckBox Content="Напечатать чек" FontSize="25" Margin="0,412,0,0" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top"></CheckBox>
+
+            <Button Content="Оплатить" Template="{StaticResource Btn}" FontSize="25"  Height="40" Width="200" Margin="0,0,0,150" VerticalAlignment="Bottom" HorizontalAlignment="Right" Foreground="White" Background="#FF068D31" />
+            <TextBlock Text="Отменить" FontSize="20" Margin="0,0,0,150" HorizontalAlignment="Left" Height="40" VerticalAlignment="Bottom" Foreground="#FF00A3D3" MouseDown="TextBlock_MouseDown"></TextBlock>
+
+
+        </Grid>
+    </Grid>
+</Window>

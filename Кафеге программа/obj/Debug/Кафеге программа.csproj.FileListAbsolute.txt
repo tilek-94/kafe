@@ -1,0 +1,81 @@
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe.config
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.pdb
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.cache
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.lref
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.g.resources
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге_программа.Properties.Resources.resources
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.exe
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.pdb
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe.config
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.pdb
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.cache
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.lref
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.g.resources
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге_программа.Properties.Resources.resources
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.exe
+C:\Users\user\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.pdb
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Simple Styles.baml
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\App.baml
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Dictionary1.baml
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Window1.g.cs
+C:\Users\Admin\Desktop\Кафеге программа\Кафеге программа\obj\Debug\Window1.baml
+D:\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe.config
+D:\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe
+D:\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.pdb
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csprojAssemblyReference.cache
+D:\Кафеге программа\Кафеге программа\obj\Debug\Simple Styles.baml
+D:\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.g.cs
+D:\Кафеге программа\Кафеге программа\obj\Debug\Window1.g.cs
+D:\Кафеге программа\Кафеге программа\obj\Debug\App.g.cs
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.cache
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.lref
+D:\Кафеге программа\Кафеге программа\obj\Debug\App.baml
+D:\Кафеге программа\Кафеге программа\obj\Debug\Dictionary1.baml
+D:\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.baml
+D:\Кафеге программа\Кафеге программа\obj\Debug\Window1.baml
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.g.resources
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге_программа.Properties.Resources.resources
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.GenerateResource.cache
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.CoreCompileInputs.cache
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.exe
+D:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.pdb
+D:\Кафеге программа\Кафеге программа\obj\Debug\Login.g.cs
+D:\Кафеге программа\Кафеге программа\obj\Debug\Login.baml
+C:\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe.config
+C:\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.exe
+C:\Кафеге программа\Кафеге программа\bin\Debug\Кафеге программа.pdb
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csprojAssemblyReference.cache
+C:\Кафеге программа\Кафеге программа\obj\Debug\Simple Styles.baml
+C:\Кафеге программа\Кафеге программа\obj\Debug\Login.g.cs
+C:\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.g.cs
+C:\Кафеге программа\Кафеге программа\obj\Debug\Window1.g.cs
+C:\Кафеге программа\Кафеге программа\obj\Debug\App.g.cs
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.cache
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа_MarkupCompile.lref
+C:\Кафеге программа\Кафеге программа\obj\Debug\Dictionary1.baml
+C:\Кафеге программа\Кафеге программа\obj\Debug\Login.baml
+C:\Кафеге программа\Кафеге программа\obj\Debug\MainWindow.baml
+C:\Кафеге программа\Кафеге программа\obj\Debug\Window1.baml
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.g.resources
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге_программа.Properties.Resources.resources
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.GenerateResource.cache
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.csproj.CoreCompileInputs.cache
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.exe
+C:\Кафеге программа\Кафеге программа\obj\Debug\Кафеге программа.pdb
+C:\Кафеге программа\Кафеге программа\obj\Debug\App.baml
+C:\Кафеге программа\Кафеге программа\obj\Debug\StolWindow.g.cs
+C:\Кафеге программа\Кафеге программа\obj\Debug\StolWindow.baml
