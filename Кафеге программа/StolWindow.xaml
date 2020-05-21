@@ -87,8 +87,24 @@
                         </Grid>
                         <Image Source="image/icon/Table.png" Height="100" Width="100"/>
                     </StackPanel>
-             
-              
+                    <StackPanel Margin="60,10,0,0">
+                        <Grid Height="Auto" Width="Auto">
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+
+                            <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                        <Image Source="image/icon/Table.png" Height="100" Width="100"/>
+                    </StackPanel>
+                    <StackPanel Margin="60,10,0,0">
+                        <Grid Height="Auto" Width="Auto">
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+
+                            <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                        <Image Source="image/icon/Table.png" Height="100" Width="100"/>
+                    </StackPanel>
+
+
 
                 </WrapPanel>
             </ScrollViewer>
