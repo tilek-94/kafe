@@ -89,7 +89,7 @@
                     </StackPanel>
                     <StackPanel Margin="90,10,0,0">
                         <Grid Height="Auto" Width="Auto">
-                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Margin="165,90,-165,-90"/>
 
                             <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
                         </Grid>
