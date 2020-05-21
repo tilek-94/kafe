@@ -78,7 +78,26 @@
 
             </Grid>
             <ScrollViewer Grid.Row="1" CanContentScroll="False"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalScrollBarVisibility="Hidden">
-                <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Width="50"/>
+                <WrapPanel Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                    <StackPanel Margin="60,10,0,0">
+                        <Grid Height="Auto" Width="Auto">
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+
+                            <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                        <Image Source="image/icon/Table.png" Height="100" Width="100"/>
+                    </StackPanel>
+                    <StackPanel Margin="90,10,0,0">
+                        <Grid Height="Auto" Width="Auto">
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+
+                            <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </Grid>
+                        <Image Source="image/icon/Table.png" Height="100" Width="100"/>
+                    </StackPanel>
+              
+
+                </WrapPanel>
             </ScrollViewer>
         </Grid>
 
