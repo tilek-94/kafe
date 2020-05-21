@@ -87,18 +87,14 @@
                         </Grid>
                         <Image Source="image/icon/Table.png" Height="100" Width="100"/>
                     </StackPanel>
-<<<<<<< HEAD
                     <StackPanel Margin="90,10,0,0">
                         <Grid Height="Auto" Width="Auto">
-                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Margin="165,90,-165,-90"/>
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
 
                             <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
                         </Grid>
                         <Image Source="image/icon/Table.png" Height="100" Width="100"/>
                     </StackPanel>
-=======
-             
->>>>>>> 52f314213d918e4dfe38aa0c5d2c98e2de7c147f
               
 
                 </WrapPanel>
