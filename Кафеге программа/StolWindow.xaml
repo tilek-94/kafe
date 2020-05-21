@@ -89,7 +89,27 @@
                         </Grid>
                         <Image Source="image/icon/Table.png" Height="100" Width="100"/>
                 </StackPanel>
-            </WrapPanel>
+                    <StackPanel Margin="10,10,0,0">
+                        <Grid Height="Auto" Width="Auto">
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+
+                            <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Margin="270,71,-270,-71"/>
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Margin="487,203,-487,-203"/>
+                        </Grid>
+                        <Image Source="image/icon/Table.png" Height="100" Width="100"/>
+                    </StackPanel>
+                    <StackPanel Margin="10,10,0,0">
+                        <Grid Height="Auto" Width="Auto">
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
+
+                            <TextBlock Text="1" Foreground="White" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Margin="270,71,-270,-71"/>
+                            <Rectangle Height="50" MinWidth="50" RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch" Margin="487,203,-487,-203"/>
+                        </Grid>
+                        <Image Source="image/icon/Table.png" Height="100" Width="100"/>
+                    </StackPanel>
+                </WrapPanel>
             </ScrollViewer>
         </Grid>
 
