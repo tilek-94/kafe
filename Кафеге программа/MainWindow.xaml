@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="650" Width="1000"  WindowStyle="None" WindowStartupLocation="CenterScreen" WindowState="Maximized">
     <Window.Resources>
-        
+
         <Storyboard x:Key="Storyboard1">
             <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="Stol">
                 <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-26"/>
@@ -475,7 +475,6 @@
             </Grid>
 
         </Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="478,313,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Height="24"/>
 
 
 
