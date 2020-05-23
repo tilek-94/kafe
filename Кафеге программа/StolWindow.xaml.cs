@@ -24,6 +24,22 @@ namespace Кафеге_программа
             InitializeComponent();
         }
 
-  
+        private void Skryit_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
+        }
+
+        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+           
+            Login login = new Login();
+            login.Show();
+            this.Close();
+        }
+
+        private void Image_MouseDown_1(object sender, MouseButtonEventArgs e)
+        {
+            MessageBox.Show("Tandaldy");
+        }
     }
 }

@@ -42,12 +42,12 @@
         </Grid>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top">
             <Grid>
-                <Image x:Name="skryit" Height="50" Width="50" Source="image/icon/FontAwesome_f068(2)_64.png" Margin="0,15,0,0"  >
+                <Image x:Name="skryit" Height="45" Width="45" Source="image/icon/FontAwesome_f068(2)_64.png" Margin="0,15,0,0" MouseDown="Skryit_MouseDown"  >
 
                 </Image>
             </Grid>
             <Grid>
-                <Image Height="50" Width="50" Source="image/icon/FontAwesome_f011(0)_64.png"  Margin="0,5"/>
+                <Image Height="45" Width="45" Source="image/icon/FontAwesome_f011(0)_64.png"  Margin="0,5" MouseDown="Image_MouseDown"/>
             </Grid>
 
 

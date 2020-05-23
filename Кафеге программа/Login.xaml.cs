@@ -23,5 +23,15 @@ namespace Кафеге_программа
         {
             InitializeComponent();
         }
+
+        private void Skryit_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
+        }
+
+        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }
