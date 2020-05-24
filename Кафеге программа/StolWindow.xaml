@@ -68,8 +68,13 @@
 
             </Grid>
             <ScrollViewer Grid.Row="1" CanContentScroll="False"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalScrollBarVisibility="Hidden">
+<<<<<<< HEAD
                 <WrapPanel Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="25,0,25,0">
                     <StackPanel Margin="60,30,0,0" Height="150" Width="100" >
+=======
+                <WrapPanel Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                    <StackPanel Margin="60,10,0,0">
+>>>>>>> 54eb9b2226a43be6843f3a395ce8844a2d274991
                         <Grid Height="Auto" Width="Auto">
                             <Rectangle Height="40" Width="40"  RadiusX="30" RadiusY="30" Fill="#FF3AA068" HorizontalAlignment="Stretch"/>
 
